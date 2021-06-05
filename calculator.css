@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    border: 4px solid black;
+    height: 589px;
+    width: 759px;
+    margin: auto;
+    border-radius: 41px;
+    background-color: rgb(235, 246, 246);
+}
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 45px;
+    border: 4px solid black;
+    border-radius: 25px;
+}
+button{
+    font-size: 43px;
+    background-color: rgb(226, 176, 115);
+    width: 138px;
+    height: 73px;
+    border-radius: 20px
+}
+button:hover{
+    background-color: rgb(197, 182, 182);
+} 
